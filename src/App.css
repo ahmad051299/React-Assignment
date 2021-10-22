@@ -1,0 +1,14 @@
+body {
+  width: 75%;
+  margin: 0 auto;
+  border: black 1px solid;
+  text-align: center;
+}
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  outline: solid black 1px;
+  justify-content: space-around;
+  padding: 10px;
+  margin-top: 10px;
+}
